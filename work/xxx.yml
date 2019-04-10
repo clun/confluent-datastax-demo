@@ -1,0 +1,17 @@
+
+                # Possible Fraud
+                #"topic.ATM_POSSIBLE_FRAUD.bank.possible_fraud.mapping": "symbol=value.symbol, value=value.value, value_date=value.valueDate",
+                #"topic.ATM_POSSIBLE_FRAUD.bank.possible_fraud.consistencyLevel": "LOCAL_ONE",
+                #"topic.ATM_POSSIBLE_FRAUD.bank.possible_fraud.ttl": -1,
+                #"topic.ATM_POSSIBLE_FRAUD.bank.possible_fraud.nullToUnset": "true",
+                #"topic.ATM_POSSIBLE_FRAUD.bank.possible_fraud.deletesEnabled": "true",
+                #"topic.ATM_POSSIBLE_FRAUD.codec.locale": "en_US",
+                #"topic.ATM_POSSIBLE_FRAUD.codec.timeZone": "UTC",
+                #"topic.ATM_POSSIBLE_FRAUD.codec.timestamp": "CQL_TIMESTAMP",
+                #"topic.ATM_POSSIBLE_FRAUD.codec.date": "ISO_LOCAL_DATE",
+                #"topic.ATM_POSSIBLE_FRAUD.codec.time": "ISO_LOCAL_TIME",
+                #"topic.ATM_POSSIBLE_FRAUD.codec.unit": "MILLISECONDS",
+                
+                
+                , latitude=\"value.location.lat\", longitude=\"value.location.lon\"
+                

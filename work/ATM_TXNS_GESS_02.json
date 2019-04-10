@@ -1,0 +1,11 @@
+{
+  "ACCOUNT_ID": "a908",
+  "ATM": "Yorkshire Bank",
+  "LOCATION": {
+    "LON": -1.544634,
+    "LAT": 53.7779398
+  },
+  "AMOUNT": 100,
+  "TIMESTAMP": "2019-03-06 15:01:48 +0000",
+  "TRANSACTION_ID": "c3f8fb38-4020-11e9-8735-0242c0a82002"
+}
